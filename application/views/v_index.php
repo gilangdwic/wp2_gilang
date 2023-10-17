@@ -11,7 +11,7 @@ controller.</p>
  <li>Model</li>
 <p align=’justify’>Model adalah kelas yang merepresentasikan atau 
 memodelkan tipe data yang akan digunakan oleh aplikasi. Model juga 
-dapat didefinisakn sebagai bagian penanganan yang berhubungan dengan 
+dapat di definisakn sebagai bagian penanganan yang berhubungan dengan 
 pengolahan atau manipulasi database. Seperti misalnya mengambil data 
 dari database, menginput dan pengolahan database lainnya. Semua 
 intruksi atau fungsi yang berhubung dengan pengolahan database di 
