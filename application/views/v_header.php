@@ -10,7 +10,7 @@ base_url() ?>assets/css/stylebuku.css">
     <div id=”wrapper”>
         <header>
             <hgroup>
-                <h1>RentalBuku.net</h1>
+                <h1>Rental Buku.net</h1>
                 <h3>Membuat Template Sederhana dengan CodeIgniter</h3>
             </hgroup>
             <nav>
