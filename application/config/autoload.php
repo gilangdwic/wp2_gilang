@@ -58,7 +58,7 @@ $autoload['helper'] = array() ;
 |
 |	$autoload['libraries'] = array('user_agent' => 'ua');
 */
-$autoload['libraries'] = array('forms_validation');
+$autoload['libraries'] = array('form_validation');
 
 /*
 | -------------------------------------------------------------------

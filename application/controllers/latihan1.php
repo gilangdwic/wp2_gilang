@@ -6,3 +6,4 @@ class Latihan1 extends CI_Controller
  echo "Selamat Datang.. selamat belajar Web Programming";
  }
 }
+ 
